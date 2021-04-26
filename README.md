@@ -23,7 +23,7 @@ To install locally:
 * Navigate to this local directory in your terminal
 * Navigate to the _/FriendLetter_ folder in your terminal
 * Enter _dotnet run_ to build and run the program
-* The terminal will output that it is "Now listening on" a certain URL. For me this is_http://localhost:5000_, but it could be different.
+* The terminal will output that it is "Now listening on" a certain URL. For me this is _http://localhost:5000_, but it could be different.
 * Navigate in your web browser to whatever URL is displayed. This will show the home page.
 * To access the form page, manually type in _/form_ after the domain name in your web browser address bar, and navigate to it. For example, this may be _http://localhost:5000/form_
 * Fill out the form and submit it to access the dynamic _/postcard_ page.
